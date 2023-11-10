@@ -1,5 +1,5 @@
 # odin-recipes
-The Odin Project HTML Project
+The Odin Project HTML Project (Project 1 - Recipes)
 
 November 9, 2023
 Created main index.html page
