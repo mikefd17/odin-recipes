@@ -13,5 +13,5 @@ Created the following html web pages
  Added links to the main index.html file for the above web pages
 
  November 11, 2023
- Created 4th recipe webpage for Shrimp Sinigang
+ Created 4th recipe webpage shrimp-sinigang.html
  Added link to the main index.html page
