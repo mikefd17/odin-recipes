@@ -19,4 +19,5 @@ Created the following html web pages
  November 19, 2023
  Added a style.css file to style the pages
  Styled images (size, alignment)
- 
+ Added font family and list line height to style.css
+
